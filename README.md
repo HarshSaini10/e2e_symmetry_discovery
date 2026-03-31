@@ -2,7 +2,7 @@
 
 **Google Summer of Code 2026 | ML4SCI Evaluation Tasks**
 
-**Author:** Harshvardhan Saini ([Google Scholar](YOUR_GOOGLE_SCHOLAR_LINK) | [LinkedIn](YOUR_LINKEDIN_LINK))
+**Author:** Harshvardhan Saini
 **Organization:** ML4SCI
 
 ---
